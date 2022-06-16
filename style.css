@@ -50,7 +50,7 @@ h1, h2, h3, h4, p {
     margin-top: 0;
     text-transform: uppercase;
     font-weight: bolder;
-    text-shadow: 0px 0px 3px black;
+    text-shadow: 0px 0px 2px black;
 }
 .gift-img1{
     width: 400px;
@@ -58,6 +58,8 @@ h1, h2, h3, h4, p {
     background-image: url(images/gift2.jpg);
     background-size: cover;
     margin: 0 auto;
+    border: 5px solid white;
+    border-radius: 10px;
 }
 #gift-1:hover{
     background-image: url(images/happy.gif);
@@ -92,6 +94,8 @@ h1, h2, h3, h4, p {
     background-image: url(images/gift2.jpg);
     background-size: cover;
     margin: 0 auto;
+    border: 5px solid white;
+    border-radius: 10px;
     
 }
 #gift-4:hover{
